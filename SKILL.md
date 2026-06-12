@@ -9,7 +9,7 @@ description: >
 platforms:
   - claude
   - codex
-author: Deepshare / Deep Eye (深度之眼)
+author: Deepshare / Deepshare
 source: https://mp.weixin.qq.com/s/qPqfvBILEu5ascyZe6guAw
 ---
 
