@@ -82,7 +82,7 @@ git clone https://github.com/your-username/scientific-figure-generator \
 
 ```
 帮我为这篇论文生成科研配图：
-[发生你的论文原文或粘贴你的论文标题 + 摘要 + 方法部分]
+[发送你的论文原文或粘贴你的论文标题 + 摘要 + 方法部分]
 ```
 
 Skill 会自动：
