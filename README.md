@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Claude%20%7C%20Codex-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Version-2.0-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Source-Deep%20share%20深度之眼-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Source-DeepShare%20深度之眼-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" />
 </p>
 
