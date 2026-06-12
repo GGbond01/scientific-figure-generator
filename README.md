@@ -208,5 +208,5 @@ MIT License — feel free to use, modify, and distribute with attribution.
 ---
 
 <p align="center">
-  Made with ❤️ for the AI research community · 深度之眼 Deep Eye
+  Made with ❤️ for the AI research community · 深度之眼 Deepshare
 </p>
